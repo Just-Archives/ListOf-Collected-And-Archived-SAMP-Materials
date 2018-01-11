@@ -39,7 +39,7 @@
 * [jVIP](http://forum.sa-mp.com/showthread.php?t=379108) - by *Jarnu*
 * [Rock's Vip System](http://forum.sa-mp.com/showthread.php?t=238413) - by *Rock18*
 * [Ulric Vip System](http://forum.sa-mp.com/showthread.php?t=250157) - by *Peinneon*
-* [Vip System](http://forum.sa-mp.com/showthread.php?t=206653]- by *barneystinson*
+* [Vip System](http://forum.sa-mp.com/showthread.php?t=206653) - by *barneystinson*
 * [xVIP](http://forum.sa-mp.com/showthread.php?t=379903) - by *XtremeR*
 * [xxSPEEDYxx's Vip System](http://forum.sa-mp.com/showthread.php?t=273773) - by *Edvin*
 
@@ -81,12 +81,58 @@
 ## Related
 
 ### IRC related
+* [G-IRC](http://forum.sa-mp.com/showthread.php?t=394672) - by *Deron_Green*
+* [How to make Irc Channel and Echo it](http://forum.sa-mp.com/showthread.php?t=241674) - by *BASITJALIL*
+* [IRC Admin Script](http://forum.sa-mp.com/showthread.php?t=402355) - by *NoahF*
+* [IRC Administrator](http://forum.sa-mp.com/showthread.php?t=100715) - by *PlayerX*
+* [IRC Administrator](http://forum.sa-mp.com/showthread.php?t=55107) - by *Zezombia*
+* [IRC Filterscript](http://forum.sa-mp.com/showthread.php?t=60697) - by *-Sneaky-*
+* [IRC plugin](http://forum.sa-mp.com/showthread.php?t=98803) - by *Incognito*
+* [Mgd Pro Irc script](http://forum.sa-mp.com/showthread.php?p=2414444) - by *mgd*
+* [Ultraz IRC system](http://forum.sa-mp.com/showthread.php?t=615893) - by *Ultraz*
 
 ### Textdraw Related
+* [BSN Image2Textdraw](http://forum.sa-mp.com/showthread.php?t=277136) - by *bhaveshnande*
+* [BSN TD editor Online](http://forum.sa-mp.com/showthread.php?t=254315) - by *bhaveshnande*
+* [EddyText](http://forum.sa-mp.com/showthread.php?t=87144) - by *refshal*
+* [Image2TextDraw](http://forum.sa-mp.com/showthread.php?t=274064) - by *gamer931215*
+* [iPLEOMAX's TextDraw Editor](http://forum.sa-mp.com/showthread.php?t=376758) - by *iPLEOMAX*
+* [TD tips](http://forum.sa-mp.com/showthread.php?t=2867) - by *Betamaster*
+* [TextDrawCreate](http://wiki.sa-mp.com/wiki/TextDrawCreate) - by *Samp-Team*
+* [Survival Textdraws](http://forum.sa-mp.com/showthread.php?t=490966) - by *Naruto_Emilio*
+* [Yes or No BOX (design)](http://forum.sa-mp.com/showthread.php?t=490976) - by *Naruto_Emilio*
+* [YSI(*)](http://forum.sa-mp.com/showthread.php?t=61548 - by *Y_Less*
+* [Zamaroht's TD editor](http://forum.sa-mp.com/showthread.php?t=117851) - by *Zamaroht*
 
 ### Object Related
+* [Attached Objects](http://forum.sa-mp.com/showthread.php?t=254151) - by *kurta999*
+* [Hold Studio](http://forum.sa-mp.com/showthread.php?t=182317) - by *Slice*
+* [Ingame Object Editor](http://forum.sa-mp.com/showthread.php?t=79220) - by *GTA_Rules*
+* [Insanity Vehicle Attachment Editor](http://forum.sa-mp.com/showthread.php?t=215963) - by *CyNiC*
+* [iVO: Easy AttachObjectToVehicle ](http://forum.sa-mp.com/showthread.php?t=282883]- by *iPLEOMAX*
+* [Map editor (0.3-D)](http://forum.sa-mp.com/showthread.php?t=282801) - by *JernejL*
+* [Objects](http://wiki.sa-mp.com/wiki/Objects) - by *Samp-Team*
+* [Player Attached Object Editor](http://forum.sa-mp.com/showthread.php?t=416138) - by *Robo_N1X*
+* [Universal Object Editor](http://forum.sa-mp.com/showthread.php?t=350697) - by *YJIET*
+* [xSpeedBreakMaker](http://forum.sa-mp.com/showthread.php?t=389740) - by *XtremeR*
+* [yEditor](http://forum.sa-mp.com/showthread.php?t=280457) - by *ylleron*
+* [YSI(1)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Chat related
+* [BTXT](http://forum.sa-mp.com/showthread.php?t=298592) - by *BigETI*
+* [commands for stunt gm](http://forum.sa-mp.com/showthread.php?t=315257) - by *Aloushi*
+* [Chat Bot](http://forum.sa-mp.com/showthread.php?t=153614) - by *Shadow-*
+* [Chat colour changer](http://forum.sa-mp.com/showthread.php?t=273863) - by *Berlovan*
+* [Colorlist Dialog](http://forum.sa-mp.com/showthread.php?t=387535) - by *MarkzD*
+* [DCommands](http://forum.sa-mp.com/showthread.php?t=388275) - by *-=Dar[K]Lord=-*
+* [RECS - Raf's External Chat System](http://forum.sa-mp.com/showthread.php?t=435967]  - by *R@f*
+* [RP Chat commands](http://forum.sa-mp.com/showthread.php?t=168634) - by *jonnyboy*
+* [Server Restart Command for Rcon Admins](http://forum.sa-mp.com/showthread.php?t=496683) - by *Aerotactics*
+* [Shrewd Chat System](http://forum.sa-mp.com/showthread.php?t=270094) - by *=WoR=Varth*
+* [Smart Chat ](http://forum.sa-mp.com/showthread.php?t=269319]- by *=WoR=Varth*
+* [Smart Restricted Word](http://forum.sa-mp.com/showthread.php?t=282131) - by *=WoR=Varth*
+* [We got A-Spam/Forbidden Word](http://forum.sa-mp.com/showthread.php?p=2363319) - by *_Jake_*
+* [xAdminChat](http://forum.sa-mp.com/showthread.php?t=376966) - by *XtremeR*
 
 ## Useful
 
