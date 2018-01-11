@@ -499,7 +499,7 @@ If you got any addictions on this topic, with some links, streamers, anything th
 
 [The original Filterscript and Includes thread](http://forum.sa-mp.com/showthread.php?t=160093)
 
-**Feel free to clone and edit this file so you can add your own scripts - or improve this file in general**
+**Feel free to fork and edit this file so you can add your own scripts - or improve this file in general**
 
 # Credits
 * me - topic creator
