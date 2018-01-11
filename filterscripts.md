@@ -50,6 +50,8 @@
   * [Streamers](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#streamers)
   * [Password encryption](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#password-encryption)
 
+* [Notes](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#notes)
+* [Credits](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#credits)
 
 # Filterscripts and includes
 
@@ -154,7 +156,6 @@
 * [TextDrawCreate](http://wiki.sa-mp.com/wiki/TextDrawCreate) - by *Samp-Team*
 * [Survival Textdraws](http://forum.sa-mp.com/showthread.php?t=490966) - by *Naruto_Emilio*
 * [Yes or No BOX (design)](http://forum.sa-mp.com/showthread.php?t=490976) - by *Naruto_Emilio*
-* [YSI(*)](http://forum.sa-mp.com/showthread.php?t=61548 - by *Y_Less*
 * [Zamaroht's TD editor](http://forum.sa-mp.com/showthread.php?t=117851) - by *Zamaroht*
 
 ### Object Related
@@ -169,7 +170,6 @@
 * [Universal Object Editor](http://forum.sa-mp.com/showthread.php?t=350697) - by *YJIET*
 * [xSpeedBreakMaker](http://forum.sa-mp.com/showthread.php?t=389740) - by *XtremeR*
 * [yEditor](http://forum.sa-mp.com/showthread.php?t=280457) - by *ylleron*
-* [YSI(1)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Chat related
 * [BTXT](http://forum.sa-mp.com/showthread.php?t=298592) - by *BigETI*
@@ -238,12 +238,10 @@
 * [pEscapemenu](http://forum.sa-mp.com/showthread.php?t=291242) - by *Pablo Borsellino*
 * [Sasi-Dialogs](http://forum.sa-mp.com/showthread.php?t=252278) - by *[GF]Sasino97*
 * [Static Dialogs](http://forum.sa-mp.com/showthread.php?t=292645) - by *BigETI*
-* [YSI(*)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Bits includes
 * [DBits](http://forum.sa-mp.com/showthread.php?t=261614) - by *MrDeath537*
-* [rBits](http://forum.sa-mp.com/showthread.php?t=275142) - by *RyDeR`*
-* [YSI](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
+* [rBits](http://forum.sa-mp.com/showthread.php?t=275142) - by *RyDeR*
 
 ### Callback includes
 * [Callbackz](http://forum.sa-mp.com/showthread.php?t=278150) - by *the_chaoz*
@@ -344,7 +342,6 @@
 * [Skin Ownership](http://forum.sa-mp.com/showthread.php?t=59832) - by *Serbish*
 * [Skin-Master ](http://forum.sa-mp.com/showthread.php?t=106274) - by *Pwnzor*
 * [Ulric Skin System](http://forum.sa-mp.com/showthread.php?t=247676) - by *Peinneon*
-* [YSI](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Interior filterscripts
 * [Hidden Interior Explorer](http://forum.sa-mp.com/showthread.php?t=95853) - by *Basssss*
@@ -487,7 +484,6 @@
 * [MidoStream](http://forum.sa-mp.com/showthread.php?t=39836) - by *MidoBan*
 * [RyDeRs Object Streamer](http://forum.sa-mp.com/showthread.php?t=242083) - by *RyDeR`*
 * [Simple CP Streamer](http://forum.sa-mp.com/showthread.php?t=70963) - by *-zriptarusk*
-* [YSI(1)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 * [Weather streamer ](http://forum.sa-mp.com/showthread.php?t=170552)- by *mick88*
 
 ### Password encryption
@@ -496,3 +492,19 @@
 * [SHA512](http://forum.sa-mp.com/showthread.php?t=188734) - by *RyDeR`*
 * [Whirlpool ](http://forum.sa-mp.com/showthread.php?t=65290)- by *Y_Less*
 * [YSI [MD5 (old version), JSCHash, Whirlpool(check above)]](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
+
+# Notes
+I got this idea from reading [this page](http://forum.sa-mp.com/showthread.php?t=112626). I noticed (and saw a post) that most of the links didnt work anymore. Also i see alot of people asking for filterscripts like 'i want a car system with this and that'. Well, take a look inside this thread and im sure you will find something!
+If you got any addictions on this topic, with some links, streamers, anything that would help someone find a good filterscript or include, then post them so i can edit the topic .
+
+[The original Filterscript and Includes thread](http://forum.sa-mp.com/showthread.php?t=160093)
+
+**Feel free to clone and edit this file so you can add your own scripts - or improve this file in general**
+
+# Credits
+* me - topic creator
+* Wesley221 - Creating the first topic
+* Cow, woops, correction: Hiddos - Animal category
+* Jeffry - Weapon drop category 
+* Cessil - Restoring this topic when i was hacked
+* Everyone else - Gave me some links and names to includes/filterscripts
