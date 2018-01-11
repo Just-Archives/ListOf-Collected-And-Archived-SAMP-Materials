@@ -109,7 +109,7 @@
 * [Hold Studio](http://forum.sa-mp.com/showthread.php?t=182317) - by *Slice*
 * [Ingame Object Editor](http://forum.sa-mp.com/showthread.php?t=79220) - by *GTA_Rules*
 * [Insanity Vehicle Attachment Editor](http://forum.sa-mp.com/showthread.php?t=215963) - by *CyNiC*
-* [iVO: Easy AttachObjectToVehicle ](http://forum.sa-mp.com/showthread.php?t=282883]- by *iPLEOMAX*
+* [iVO: Easy AttachObjectToVehicle](http://forum.sa-mp.com/showthread.php?t=282883) - by *iPLEOMAX*
 * [Map editor (0.3-D)](http://forum.sa-mp.com/showthread.php?t=282801) - by *JernejL*
 * [Objects](http://wiki.sa-mp.com/wiki/Objects) - by *Samp-Team*
 * [Player Attached Object Editor](http://forum.sa-mp.com/showthread.php?t=416138) - by *Robo_N1X*
@@ -125,11 +125,11 @@
 * [Chat colour changer](http://forum.sa-mp.com/showthread.php?t=273863) - by *Berlovan*
 * [Colorlist Dialog](http://forum.sa-mp.com/showthread.php?t=387535) - by *MarkzD*
 * [DCommands](http://forum.sa-mp.com/showthread.php?t=388275) - by *-=Dar[K]Lord=-*
-* [RECS - Raf's External Chat System](http://forum.sa-mp.com/showthread.php?t=435967]  - by *R@f*
+* [RECS - Raf's External Chat System](http://forum.sa-mp.com/showthread.php?t=435967) - by *R@f*
 * [RP Chat commands](http://forum.sa-mp.com/showthread.php?t=168634) - by *jonnyboy*
 * [Server Restart Command for Rcon Admins](http://forum.sa-mp.com/showthread.php?t=496683) - by *Aerotactics*
 * [Shrewd Chat System](http://forum.sa-mp.com/showthread.php?t=270094) - by *=WoR=Varth*
-* [Smart Chat ](http://forum.sa-mp.com/showthread.php?t=269319]- by *=WoR=Varth*
+* [Smart Chat](http://forum.sa-mp.com/showthread.php?t=269319) - by *=WoR=Varth*
 * [Smart Restricted Word](http://forum.sa-mp.com/showthread.php?t=282131) - by *=WoR=Varth*
 * [We got A-Spam/Forbidden Word](http://forum.sa-mp.com/showthread.php?p=2363319) - by *_Jake_*
 * [xAdminChat](http://forum.sa-mp.com/showthread.php?t=376966) - by *XtremeR*
@@ -137,26 +137,106 @@
 ## Useful
 
 ### Useful topics
+* [A few Tricks](http://forum.sa-mp.com/showthread.php?t=191239) - by *Y_Less*
+* [An in-depth look at binary and binary operators](http://forum.sa-mp.com/showthread.php?t=177523) - by *Kyosaur*
+* [Cannot Read from file](http://forum.sa-mp.com/showthread.php?t=183776) - by *[L3th4l]*
+* [Fixes](http://forum.sa-mp.com/showthread.php?t=292813) - by *Y_Less*
+* [Tips & Tricks](http://forum.sa-mp.com/showthread.php?t=216730) - by *Slice*
+* [Useful functions](http://forum.sa-mp.com/showthread.php?t=38965) - by *Everyone who posted in there*
+* [Useful Tuturials](http://forum.sa-mp.com/showthread.php?t=360911) - by *FireCat*
+* [Why you should not use 256](http://forum.sa-mp.com/showthread.php?t=55261) - by *Y_Less*
 
 ### Useful tools
+* [Dialog creator - Google Chrome Extension](http://forum.sa-mp.com/showthread.php?t=384184)  - by *RedJohn*
+* [Pawno Color Generator](http://forum.sa-mp.com/showthread.php?t=387690) - by *RedJohn*
 
 ### Useful plugins
+* [Audio Plugin](http://forum.sa-mp.com/showthread.php?t=82162) - by *Incognito*
+* [crashdetect](http://forum.sa-mp.com/showthread.php?t=262796) - by *0x5A656578*
+* [CTime](http://forum.sa-mp.com/showthread.php?t=294054) - by *RyDeR`*
+* [Drift Points Counter](http://forum.sa-mp.com/showthread.php?t=267677) - by *Gamer_Z*
+* [GVar](http://forum.sa-mp.com/showthread.php?t=151076) - by *Incognito*
+* [MapAndreas](http://forum.sa-mp.com/showthread.php?t=275492) - by *Kalcor, updated by *Mauzen*
+* [Math Plugin](http://forum.sa-mp.com/showthread.php?t=270508) - by *JernejL*
+* [MySQL (G-sTyLeZzZ)](http://forum.sa-mp.com/showthread.php?t=56564) - by *G-sTyLeZzZ*
+* [MySQL (StrickenKid)](http://forum.sa-mp.com/showthread.php?t=122983) - by *StrickenKid*
+* [Sscanf](http://forum.sa-mp.com/showthread.php?t=120356) - by *Y_Less*
+* [strftime](http://forum.sa-mp.com/showthread.php?t=288802) - by *Jovanny*
+* [streamer](http://forum.sa-mp.com/showthread.php?t=102865) - by *Incognito*
+* [IRC plugin](http://forum.sa-mp.com/showthread.php?t=98803) - by *Incognito*
+* [Whirlpool](http://forum.sa-mp.com/showthread.php?t=65290) - by *Y_Less*
+* [YSF](http://forum.sa-mp.com/showthread.php?t=113485) - by *Y_Less*
+* [Math Plugin](http://forum.sa-mp.com/showthread.php?t=270508) - by *JernejL*
+* [GeoIP](http://forum.sa-mp.com/showthread.php?t=32509) - by *Totto8492*
+* [Textdraw Plugin](http://forum.sa-mp.com/showthread.php?t=288691) - by* iPLEOMAX*
 
 ## Includes
 
 ### Command processors
+* [DCMD](http://forum.sa-mp.com/showthread.php?t=48239) - by *DracoBlue*
+* [MCMD](http://forum.sa-mp.com/showthread.php?t=172189) - by *MrDeath537*
+* [rCMD](http://forum.sa-mp.com/showthread.php?t=323777) - by *RyDeR`*
+* [YCMD](http://forum.sa-mp.com/showthread.php?t=169029) - by *Y_Less*
+* [ZCMD](http://forum.sa-mp.com/showthread.php?t=91354) - by *Zeex*
 
 ### Dialog Includes
+* [B-Dial](http://forum.sa-mp.com/showthread.php?t=294925) - by *BigETI*
+* [gDialogs](http://forum.sa-mp.com/showthread.php?t=281245) - by *gamer931215*
+* [pEscapemenu](http://forum.sa-mp.com/showthread.php?t=291242) - by *Pablo Borsellino*
+* [Sasi-Dialogs](http://forum.sa-mp.com/showthread.php?t=252278) - by *[GF]Sasino97*
+* [Static Dialogs](http://forum.sa-mp.com/showthread.php?t=292645) - by *BigETI*
+* [YSI(*)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Bits includes
+* [DBits](http://forum.sa-mp.com/showthread.php?t=261614) - by *MrDeath537*
+* [rBits](http://forum.sa-mp.com/showthread.php?t=275142) - by *RyDeR`*
+* [YSI](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Callback includes
+* [Callbackz](http://forum.sa-mp.com/showthread.php?t=278150) - by *the_chaoz*
+* [New Player Callbacks](http://forum.sa-mp.com/showthread.php?t=280549) - by *BigETI*
+* [OnEmptyVehicleDamage](http://forum.sa-mp.com/showthread.php?t=271903) - by *Nanory*
+* [OnPlayerJackVehicle](http://forum.sa-mp.com/showthread.php?t=278082) - by *gamer931215*
+* [OnPlayerMarkMap](http://forum.sa-mp.com/showthread.php?t=282453) - by *NaS*
+* [OnPlayerMoneyChange](http://forum.sa-mp.com/showthread.php?t=254019) - by *Biesmen*
+* [OnPlayerPause](http://forum.sa-mp.com/showthread.php?t=245738) - by *$t3ve*
+* [OnPlayerPause](http://forum.sa-mp.com/showthread.php?t=380686) - by *Gryphus One*
+* [OnPlayerRconLoginAttempt](http://forum.sa-mp.com/showthread.php?t=273058) - by *Basicz*
+* [OnPlayerReloading](http://forum.sa-mp.com/showthread.php?t=275106) - by *LZLo*
+* [OnPlayerShootPlayer](http://forum.sa-mp.com/showthread.php?t=195439) - by *wups*
+* [OnPlayerSpawnEx](http://forum.sa-mp.com/showthread.php?p=2171402) - by *_Jake_*
+* [OnPlayerVehicleDamage](http://forum.sa-mp.com/showthread.php?t=276059) - by *wups*
+* [OnPlayerVehicleHealthChange ([MV]_Functions)](http://forum.sa-mp.com/showthread.php?t=315556) - by *Michael@Belgium*
+* [OnPlayerWeaponStateChange](http://forum.sa-mp.com/showthread.php?t=391761) - by *Plovix*
+* [YSI (OnScriptInit, OnPlayerLogin(*), OnPlayerLogout(*), OnCommandPerformed, OnCommandReceived)](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
 
 ### Misc Includes
+* [aColors.inc](http://forum.sa-mp.com/showthread.php?t=369047) - by *Avi57*
+* [foreach](http://forum.sa-mp.com/showthread.php?t=92679) - by *Y_Less*
+* [GetPlayerCameraWeaponVector](http://forum.sa-mp.com/showthread.php?t=276490) - by *Nero_3D*
+* [L-Reputation System](http://forum.sa-mp.com/showthread.php?p=2216590) - by *Lordz™*
+* [Movable3DText](http://forum.sa-mp.com/showthread.php?t=245191) - by *TeraN*
+* [Screen Fader](http://forum.sa-mp.com/showthread.php?t=124091) - by *Joe Staff*
+* [Simple Mathematics](http://forum.sa-mp.com/showthread.php?t=283869) - by *Lorenc_*
+* [views.inc](http://forum.sa-mp.com/showthread.php?p=1592428) - by *fiki574_CRO*
+* [YSI](http://forum.sa-mp.com/showthread.php?t=61548) - by *Y_Less*
+* [ZONES INCLUDE](http://forum.sa-mp.com/showthread.php?t=27598) - by *Cueball*
 
 ### Timer includes
+* [LTimers](http://forum.sa-mp.com/showthread.php?t=271942) - by *Lookin*
+* [TimerFix](http://forum.sa-mp.com/showthread.php?t=289675) - by *Slice*
+* [y_timers](http://forum.sa-mp.com/showthread.php?t=182948) - by *Y_Less*
 
 ### INI Writers
+* [bIni](http://forum.sa-mp.com/showthread.php?t=281264) - by *[S]trong*
+* [cini](http://forum.sa-mp.com/showthread.php?t=216668) - by *cessil*
+* [dFile](http://forum.sa-mp.com/showthread.php?t=218026) - by *Drake1994*
+* [DJson](http://forum.sa-mp.com/showthread.php?t=48439) - by *DracoBlue*
+* [SII](http://forum.sa-mp.com/showthread.php?t=58458) - by *[DRuG]Slick*
+* [SimpleFile](http://forum.sa-mp.com/showthread.php?t=28357) - by *Rafelder_GRF*
+* [Southclaw's INI File Script](http://forum.sa-mp.com/showthread.php?t=262795) - by *[HLF]Southclaw*
+* [Xini](http://forum.sa-mp.com/showthread.php?t=59908) - by *boylett*
+* [y_ini](http://forum.sa-mp.com/showthread.php?t=175565) - by *Y_Less*
 
 ## Filterscripts/includes
 
