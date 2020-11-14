@@ -1,6 +1,6 @@
 # Index
 
-* [Systems](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#systems)
+* [Systems](#systems)
   * [Admin Systems](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#admin-systems)
   * [Vip Systems](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#vip-systems)
   * [House Systems](https://gist.github.com/MichaelBelgium/2c9ae59f85911531864076cec873530a#house-systems)
